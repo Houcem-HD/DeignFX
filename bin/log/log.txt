@@ -1,0 +1,15 @@
+Added triangle
+Moved shape to (195.0, 188.0)
+Resized triangle to size 180.0
+Changed shape color to: 0x00ffffff
+Added rectangle
+Moved shape to (105.0, 277.0)
+Resized rectangle to 180.0x60.0
+Resized rectangle to 180.0x260.0
+Resized rectangle to 180.0x1800.0
+Resized rectangle to 180.0x180.0
+Moved shape to (195.0, 188.0)
+Moved shape to (194.0, 188.0)
+Moved shape to (194.0, 188.0)
+Moved shape to (195.0, 187.0)
+Error saving log: /home/houcem-hd/Desktop/IIT/modelisation/workspace/project/PRojectJavaFx/src/log/log.txt (No such file or directory)
